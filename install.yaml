@@ -1,5 +1,5 @@
-name: ddev-bun
+name: bun
 
 project_files:
 - commands/web/bun
-- web-build/Dockerfile.ddev-bun
+- web-build/Dockerfile.bun
