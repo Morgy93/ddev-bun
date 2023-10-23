@@ -35,8 +35,8 @@ Please refer to the documentation at <https://bun.sh/docs>.
 
 Quick links:
 
-- [RUNTIME](https://bun.sh/docs/cli/run)
-- [PACKAGE MANAGER](https://bun.sh/docs/cli/install)
-- [BUNDLER](https://bun.sh/docs/bundler)
-- [TEST RUNNER](https://bun.sh/docs/cli/test)
-- [PACKAGE RUNNER](https://bun.sh/docs/cli/bunx)
+  - [RUNTIME](https://bun.sh/docs/cli/run)
+  - [PACKAGE MANAGER](https://bun.sh/docs/cli/install)
+  - [BUNDLER](https://bun.sh/docs/bundler)
+  - [TEST RUNNER](https://bun.sh/docs/cli/test)
+  - [PACKAGE RUNNER](https://bun.sh/docs/cli/bunx)
