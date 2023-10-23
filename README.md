@@ -20,14 +20,14 @@ YouTube: [Bun 1.0 is here](https://www.youtube.com/watch?v=BsnCpESUEqM)
 
 ## Installation
 
-```
+```shell
 ddev get Morgy93/ddev-bun
 ddev restart
 ```
 
 ## Usage
 
-```
+```shell
 ddev bun
 ```
 
