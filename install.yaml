@@ -1,5 +1,5 @@
 name: bun
 
 project_files:
-- commands/web/bun
-- web-build/Dockerfile.bun
+  - commands/web/bun
+  - web-build/Dockerfile.bun
